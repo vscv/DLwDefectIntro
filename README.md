@@ -2,7 +2,7 @@
 introduction of defect/aoi classification with common NN model.
 
 # Usage
-學員容器打開後，一開始要先進cmd做這兩步:
+學員容器打開後，啟動Jupyter，先進cmd下載資料:
 1. $git clone https://github.com/vscv/DLwDefectIntro
 2. $cd DLwDefectIntro/Lab_NEU/
 3. $sh getdata_NEU.sh
