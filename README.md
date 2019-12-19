@@ -6,6 +6,7 @@ introduction of defect/aoi classification with common NN model.
 1. $git clone https://github.com/vscv/DLwDefectIntro
 2. $cd DLwDefectIntro/Lab_NEU/
 3. $sh getdata_NEU.sh
+4. 回到Jupyter 開啟NEU Surface Defect (InceptionV3)_20191211_v1.ipynb
 
 # TensorBoard in Jupyter
 在TensorBoard階段，再回到cmd開啟TB server:
